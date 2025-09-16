@@ -60,4 +60,4 @@ The Course NFT Marketplace has extensive potential for growth and enhancement:
 
 The Course NFT Marketplace represents the foundation for a complete transformation of how we create, distribute, and value educational content in the digital age.
 
-## Transaction HASH : 0x4b0c869c45356f5829fabe256079ed3dd3b9e5bb3e708d8f67e332324a8e25b1
+## Transaction HASH : [0x4b0c869c45356f5829fabe256079ed3dd3b9e5bb3e708d8f67e332324a8e25b1](https://explorer.aptoslabs.com/txn/0x4b0c869c45356f5829fabe256079ed3dd3b9e5bb3e708d8f67e332324a8e25b1?network=devnet)
