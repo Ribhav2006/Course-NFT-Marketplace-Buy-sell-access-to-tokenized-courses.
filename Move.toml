@@ -1,0 +1,16 @@
+[package]
+name = "courses.buy"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0x4681cc7810290e0b8de40f3547b7357fefa7e93e23ba3f7f9bd60f443319a8f2"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
+     
